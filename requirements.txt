@@ -1,2 +1,1 @@
-Amino-new.py==1.2.17
-gtts
+Amino.fix
