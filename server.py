@@ -1,10 +1,9 @@
-from keep_alive import keep_alive
+
 from os import system
 system("pip install  amino.fix")
 import aminofix
 import requests
 from threading import Thread as t
-keep_alive()
 clint=aminofix.Client()
 clint.login(email="q7tfudy5@wwjmp.com",password="pagal0")
 headers=clint.headers
